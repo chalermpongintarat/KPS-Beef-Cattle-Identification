@@ -34,6 +34,6 @@ NOTE: the muzzle print image must be in the `/database` folder
 
 ## Credits
 
-Special thanks to 
+Special thanks to:
 - https://github.com/Utkarsh-Deshmukh/Fingerprint-Enhancement-Python for providing a library used to enhance the muzzle print image.
-- https://github.com/kjanko/python-fingerprint-recognition for providing a library used to recognition the muzzle print image with SKimage and OpenCV the.
+- https://github.com/kjanko/python-fingerprint-recognition for providing a library used to recognition the muzzle print image with SKimage and OpenCV.
