@@ -1,6 +1,6 @@
 #!/urs/local/bin/python
-# Developed by Chalermpong Intarat
-# On Wednesday, November 4, 2020
+# Adapted by Chalermpong Intarat, Nov 4, 2020
+# NBT, NSTDA chalermpong.int@biotec.or.th
 
 # RIDGESEGMENT - Normalises muzzle print image and segment ridge region.
 
