@@ -1,6 +1,6 @@
 #!/urs/local/bin/python
-# Developed by Chalermpong Intarat
-# On Wednesday, November 4, 2020
+# Adapted by Chalermpong Intarat, Nov 4, 2020
+# NBT, NSTDA chalermpong.int@biotec.or.th
 
 # RIDGEFREQ - Calculate a ridge frequency image.
 
