@@ -1,5 +1,5 @@
 #!/urs/local/bin/python
-# Adapted by Chalermpong Intarat, Nov 4, 2020
+# Developed by Chalermpong Intarat, Nov 4, 2020
 # NBT, NSTDA chalermpong.int@biotec.or.th
 
 # RIDGEFILTER - Enhances muzzle print image via oriented filters.
