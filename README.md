@@ -1,7 +1,7 @@
 # KPS-Beef-Cattle-Identification
 Kamphaeng Saen Beef Cattle Identification Approach using Muzzle Print Image
 
-Thus, cattle’s muzzle print image is used in the Kamphaeng Saen Beef Cattle Identification Approach. The proposed scheme uses Scale Invariant Feature Transform (SIFT) for detecting the interesting points for image matching. Gabor Filter method is proposed enhancement of muzzle print image quality before get the interesting points. For a robust identification scheme, a Random Sample Consensus (RANSAC) algorithm has been coupled with the SIFT output to remove the outlier points and achieve more robustness. Finally, the feature matching is accomplished by the Brute-Force Matchers.
+The proposed scheme uses Scale Invariant Feature Transform (SIFT) for detecting the interesting points for image matching. Gabor Filter method is proposed enhancement of muzzle print image quality before get the interesting points. For a robust identification scheme, a Random Sample Consensus (RANSAC) algorithm has been coupled with the SIFT output to remove the outlier points and achieve more robustness. Finally, the feature matching is accomplished by the Brute-Force Matchers.
 
 Develope with SKimage and OpenCV
 
