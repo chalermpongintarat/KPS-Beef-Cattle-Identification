@@ -42,5 +42,6 @@ Special thanks to:
 
 ## Authors
 
+hathairat.k@cit.kmutnb.ac.th<br/>
 maleerat.m@itd.kmutnb.ac.th<br/>
 chalermpong.int@biotec.or.th
